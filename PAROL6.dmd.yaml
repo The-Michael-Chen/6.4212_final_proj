@@ -1,7 +1,7 @@
 directives:
 - add_model:
     name: PAROL6
-    file: /work/PAROL6.urdf
+    file: package://final_proj/PAROL6.urdf
     default_joint_positions:
         L1: [0]
         L2: [0.6]
